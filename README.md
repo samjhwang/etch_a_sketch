@@ -1,1 +1,1 @@
-# etch_a_sketch
+For this project, I will be recreating Etch-a-Sketch using DOM manipulation. Several challenges occured to me while creating this project. The most problematic one was figuring out the portion of EventListeners and the use of the .hover effect on each individual div. 
